@@ -1,0 +1,15 @@
+Capstone Proposal
+
+1. The tech stack I will be using for this project is React for the front-end, and NodeJS and ExpressJS for the back-end. I am still deciding whether I want to use Tailwind CSS as a CSS framework or use Vanilla CSS.
+
+2. The focus of my project is going to be mainly on the front-end. There will definitely be some work put into the server side, but the majority of time I will allocate to this project will be client-side related.
+
+3. This capstone project will be a “website” extension, based off of the Spotify app.
+
+4. The goal of this project is to build an application that allows users (of Spotify) to see a more detailed view of their app usage.
+
+5. The demographic for this project is all Spotify users.
+
+6. I will be using the Spotify API to access data that is not normally accessible to the public, but is stored by Spotify nonetheless.
+
+7. An issue I may run into with this API is being restricted to the data that the API provides. I may want to add additional information that the API doesn’t include, so we will see if that is possible or not. The only sensitive information I will need to keep secure is the user's password. The application will have user auth, as well as the ability to access a user’s favorite tracks and artists of all time, and other fun metrics/pieces of data that Spotify stores.
